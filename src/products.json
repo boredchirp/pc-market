@@ -1,0 +1,2426 @@
+[
+  {
+    "id": "1",
+    "title": "Titan",
+    "cost": 31500,
+    "category": "Gaming",
+    "type": "PC",
+    "description": "Entry-level Gaming",
+    "imgurl1": "/assets/imgs/pcs/gsmall1.avif",
+    "cpu": [
+      {
+        "name": "Intel Core i3-13100F",
+        "price": 4950
+      },
+      {
+        "name": "Intel Core i3-13100",
+        "price": 5500
+      }
+    ],
+    "gpu": [
+      {
+        "name": "Nvidia GeForce GTX 1660 Super",
+        "price": 4990
+      },
+      {
+        "name": "Nvidia GeForce RTX 3050",
+        "price": 5450
+      }
+    ],
+    "ram": [
+      {
+        "name": "1 x 8 GB (8 GB)",
+        "price": 2500
+      },
+      {
+        "name": "2 x 8 GB (16 GB)",
+        "price": 3000
+      }
+    ],
+    "storage": [
+      {
+        "name": "128 GB SSD",
+        "price": 3000
+      },
+      {
+        "name": "256 GB SSD",
+        "price": 3750
+      },
+      {
+        "name": "512 GB SSD",
+        "price": 4250
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Phoenix",
+    "cost": 47800,
+    "category": "Gaming",
+    "type": "PC",
+    "description": "Prudent Gaming PC",
+    "imgurl1": "/assets/imgs/pcs/gmid1.avif",
+    "cpu": [
+      {
+        "name": "Intel Core i5-13400F",
+        "price": 5950
+      },
+      {
+        "name": "Intel Core i5-13400",
+        "price": 6500
+      }
+    ],
+    "gpu": [
+      {
+        "name": "Nvidia GeForce RTX 3050",
+        "price": 5990
+      },
+      {
+        "name": "Nvidia GeForce RTX 4060",
+        "price": 6450
+      }
+    ],
+    "ram": [
+      {
+        "name": "2 x 8 GB (16 GB)",
+        "price": 3000
+      },
+      {
+        "name": "4 x 8 GB (32 GB)",
+        "price": 3500
+      }
+    ],
+    "storage": [
+      {
+        "name": "256 GB SSD",
+        "price": 4000
+      },
+      {
+        "name": "512 GB SSD",
+        "price": 4750
+      },
+      {
+        "name": "1 TB SSD",
+        "price": 5250
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Nova",
+    "cost": 64250,
+    "category": "Gaming",
+    "type": "PC",
+    "description": "Enthusiast Gaming",
+    "imgurl1": "/assets/imgs/pcs/gmid2.avif",
+    "cpu": [
+      {
+        "name": "Intel Core i5-13500",
+        "price": 6950
+      },
+      {
+        "name": "Intel Core i5-13600",
+        "price": 7500
+      }
+    ],
+    "gpu": [
+      {
+        "name": "Nvidia GeForce RTX 3050",
+        "price": 5990
+      },
+      {
+        "name": "Nvidia GeForce RTX 4060",
+        "price": 6450
+      }
+    ],
+    "ram": [
+      {
+        "name": "2 x 8 GB (16 GB)",
+        "price": 3000
+      },
+      {
+        "name": "4 x 8 GB (32 GB)",
+        "price": 3500
+      }
+    ],
+    "storage": [
+      {
+        "name": "256 GB SSD",
+        "price": 4000
+      },
+      {
+        "name": "512 GB SSD",
+        "price": 4750
+      },
+      {
+        "name": "1 TB SSD",
+        "price": 5250
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Blaze",
+    "cost": 78900,
+    "category": "Gaming",
+    "type": "PC",
+    "description": "Best Selling Gaming PC",
+    "imgurl1": "/assets/imgs/pcs/gmid3.avif",
+    "cpu": [
+      {
+        "name": "Intel Core i7-13700F",
+        "price": 7950
+      },
+      {
+        "name": "Intel Core i7-13700",
+        "price": 8500
+      }
+    ],
+    "gpu": [
+      {
+        "name": "Nvidia GeForce RTX 4060",
+        "price": 6450
+      },
+      {
+        "name": "Nvidia GeForce RTX 4080",
+        "price": 7650
+      },
+      {
+        "name": "Nvidia GeForce RTX 4090",
+        "price": 8490
+      }
+    ],
+    "ram": [
+      {
+        "name": "4 x 8 GB (32 GB)",
+        "price": 4000
+      },
+      {
+        "name": "8 x 8 GB (64 GB)",
+        "price": 4500
+      }
+    ],
+    "storage": [
+      {
+        "name": "512 GB SSD",
+        "price": 4750
+      },
+      {
+        "name": "1 TB SSD",
+        "price": 5750
+      },
+      {
+        "name": "2 TB SSD",
+        "price": 6250
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "title": "ThunderStrike",
+    "cost": 95750,
+    "category": "Gaming",
+    "type": "PC",
+    "description": "No-Compromise Gaming Experience",
+    "imgurl1": "/assets/imgs/pcs/ghigh1.avif",
+    "cpu": [
+      {
+        "name": "Intel Core i9-13900F",
+        "price": 8950
+      },
+      {
+        "name": "Intel Core i9-13900",
+        "price": 9500
+      }
+    ],
+    "gpu": [
+      {
+        "name": "Nvidia GeForce RTX 4060",
+        "price": 6450
+      },
+      {
+        "name": "Nvidia GeForce RTX 4080",
+        "price": 7650
+      },
+      {
+        "name": "Nvidia GeForce RTX 4090",
+        "price": 8490
+      }
+    ],
+    "ram": [
+      {
+        "name": "4 x 8 GB (32 GB)",
+        "price": 4000
+      },
+      {
+        "name": "8 x 8 GB (64 GB)",
+        "price": 4500
+      }
+    ],
+    "storage": [
+      {
+        "name": "512 GB SSD",
+        "price": 4750
+      },
+      {
+        "name": "1 TB SSD",
+        "price": 5750
+      },
+      {
+        "name": "2 TB SSD",
+        "price": 6250
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Venture",
+    "cost": 33750,
+    "category": "Business",
+    "type": "PC",
+    "description": "Small Business Productivity",
+    "imgurl1": "/assets/imgs/pcs/bsmall1.avif",
+    "cpu": [
+      {
+        "name": "Intel Core i3-13100F",
+        "price": 4950
+      },
+      {
+        "name": "Intel Core i3-13100",
+        "price": 5500
+      }
+    ],
+    "gpu": [
+      {
+        "name": "Nvidia GeForce GTX 1660 Super",
+        "price": 4990
+      },
+      {
+        "name": "Nvidia GeForce RTX 3050",
+        "price": 5450
+      }
+    ],
+    "ram": [
+      {
+        "name": "1 x 8 GB (8 GB)",
+        "price": 2500
+      },
+      {
+        "name": "2 x 8 GB (16 GB)",
+        "price": 3000
+      }
+    ],
+    "storage": [
+      {
+        "name": "128 GB SSD",
+        "price": 3000
+      },
+      {
+        "name": "256 GB SSD",
+        "price": 3750
+      },
+      {
+        "name": "512 GB SSD",
+        "price": 4250
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "title": "Zen",
+    "cost": 46200,
+    "category": "Business",
+    "type": "PC",
+    "description": "Prudent Business PC",
+    "imgurl1": "/assets/imgs/pcs/bmid1.avif",
+    "cpu": [
+      {
+        "name": "Intel Core i5-13400F",
+        "price": 5950
+      },
+      {
+        "name": "Intel Core i5-13400",
+        "price": 6500
+      }
+    ],
+    "gpu": [
+      {
+        "name": "Nvidia GeForce RTX 3050",
+        "price": 5990
+      },
+      {
+        "name": "Nvidia GeForce RTX 4060",
+        "price": 6450
+      }
+    ],
+    "ram": [
+      {
+        "name": "2 x 8 GB (16 GB)",
+        "price": 3000
+      },
+      {
+        "name": "4 x 8 GB (32 GB)",
+        "price": 3500
+      }
+    ],
+    "storage": [
+      {
+        "name": "256 GB SSD",
+        "price": 4000
+      },
+      {
+        "name": "512 GB SSD",
+        "price": 4750
+      },
+      {
+        "name": "1 TB SSD",
+        "price": 5250
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "title": "Summit",
+    "cost": 68450,
+    "category": "Business",
+    "type": "PC",
+    "description": "Entreprise Performance",
+    "imgurl1": "/assets/imgs/pcs/bmid2.avif",
+    "cpu": [
+      {
+        "name": "Intel Core i5-13500",
+        "price": 6950
+      },
+      {
+        "name": "Intel Core i5-13600",
+        "price": 7500
+      }
+    ],
+    "gpu": [
+      {
+        "name": "Nvidia GeForce RTX 3050",
+        "price": 5990
+      },
+      {
+        "name": "Nvidia GeForce RTX 4060",
+        "price": 6450
+      }
+    ],
+    "ram": [
+      {
+        "name": "2 x 8 GB (16 GB)",
+        "price": 3000
+      },
+      {
+        "name": "4 x 8 GB (32 GB)",
+        "price": 3500
+      }
+    ],
+    "storage": [
+      {
+        "name": "256 GB SSD",
+        "price": 4000
+      },
+      {
+        "name": "512 GB SSD",
+        "price": 4750
+      },
+      {
+        "name": "1 TB SSD",
+        "price": 5250
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "title": "Sage",
+    "cost": 81800,
+    "category": "Business",
+    "type": "PC",
+    "description": "Best Selling Business PC",
+    "imgurl1": "/assets/imgs/pcs/bmid3.avif",
+    "cpu": [
+      {
+        "name": "Intel Core i7-13700F",
+        "price": 7950
+      },
+      {
+        "name": "Intel Core i7-13700",
+        "price": 8500
+      }
+    ],
+    "gpu": [
+      {
+        "name": "Nvidia GeForce RTX 4060",
+        "price": 6450
+      },
+      {
+        "name": "Nvidia GeForce RTX 4080",
+        "price": 7650
+      },
+      {
+        "name": "Nvidia GeForce RTX 4090",
+        "price": 8490
+      }
+    ],
+    "ram": [
+      {
+        "name": "4 x 8 GB (32 GB)",
+        "price": 4000
+      },
+      {
+        "name": "8 x 8 GB (64 GB)",
+        "price": 4500
+      }
+    ],
+    "storage": [
+      {
+        "name": "512 GB SSD",
+        "price": 4750
+      },
+      {
+        "name": "1 TB SSD",
+        "price": 5750
+      },
+      {
+        "name": "2 TB SSD",
+        "price": 6250
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "title": "Master",
+    "cost": 97900,
+    "category": "Business",
+    "type": "PC",
+    "description": "Advanced Applications Business",
+    "imgurl1": "/assets/imgs/pcs/bhigh1.avif",
+    "cpu": [
+      {
+        "name": "Intel Core i9-13900F",
+        "price": 8950
+      },
+      {
+        "name": "Intel Core i9-13900",
+        "price": 9500
+      }
+    ],
+    "gpu": [
+      {
+        "name": "Nvidia GeForce RTX 4060",
+        "price": 6450
+      },
+      {
+        "name": "Nvidia GeForce RTX 4080",
+        "price": 7650
+      },
+      {
+        "name": "Nvidia GeForce RTX 4090",
+        "price": 8490
+      }
+    ],
+    "ram": [
+      {
+        "name": "4 x 8 GB (32 GB)",
+        "price": 4000
+      },
+      {
+        "name": "8 x 8 GB (64 GB)",
+        "price": 4500
+      }
+    ],
+    "storage": [
+      {
+        "name": "512 GB SSD",
+        "price": 4750
+      },
+      {
+        "name": "1 TB SSD",
+        "price": 5750
+      },
+      {
+        "name": "2 TB SSD",
+        "price": 6250
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "title": "Fury",
+    "cost": 32850,
+    "category": "Gaming",
+    "type": "Laptop",
+    "description": "Entry-level Gaming",
+    "imgurl1": "/assets/imgs/laptops/gsmall1.avif",
+    "cpu": [
+      {
+        "name": "Intel Core i3-13100F",
+        "price": 4950
+      },
+      {
+        "name": "Intel Core i3-13100",
+        "price": 5500
+      }
+    ],
+    "gpu": [
+      {
+        "name": "Nvidia GeForce GTX 1660 Super",
+        "price": 4990
+      },
+      {
+        "name": "Nvidia GeForce RTX 3050",
+        "price": 5450
+      }
+    ],
+    "ram": [
+      {
+        "name": "1 x 8 GB (8 GB)",
+        "price": 2500
+      },
+      {
+        "name": "2 x 8 GB (16 GB)",
+        "price": 3000
+      }
+    ],
+    "storage": [
+      {
+        "name": "128 GB SSD",
+        "price": 3000
+      },
+      {
+        "name": "256 GB SSD",
+        "price": 3750
+      },
+      {
+        "name": "512 GB SSD",
+        "price": 4250
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "title": "Mancer",
+    "cost": 49600,
+    "category": "Gaming",
+    "type": "Laptop",
+    "description": "Prudent Gaming Laptop",
+    "imgurl1": "/assets/imgs/laptops/gmid1.avif",
+    "cpu": [
+      {
+        "name": "Intel Core i5-13400F",
+        "price": 5950
+      },
+      {
+        "name": "Intel Core i5-13400",
+        "price": 6500
+      }
+    ],
+    "gpu": [
+      {
+        "name": "Nvidia GeForce RTX 3050",
+        "price": 5990
+      },
+      {
+        "name": "Nvidia GeForce RTX 4060",
+        "price": 6450
+      }
+    ],
+    "ram": [
+      {
+        "name": "2 x 8 GB (16 GB)",
+        "price": 3000
+      },
+      {
+        "name": "4 x 8 GB (32 GB)",
+        "price": 3500
+      }
+    ],
+    "storage": [
+      {
+        "name": "256 GB SSD",
+        "price": 4000
+      },
+      {
+        "name": "512 GB SSD",
+        "price": 4750
+      },
+      {
+        "name": "1 TB SSD",
+        "price": 5250
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "title": "Pulse",
+    "cost": 72350,
+    "category": "Gaming",
+    "type": "Laptop",
+    "description": "Enthusiast Gaming",
+    "imgurl1": "/assets/imgs/laptops/gmid2.avif",
+    "cpu": [
+      {
+        "name": "Intel Core i5-13500",
+        "price": 6950
+      },
+      {
+        "name": "Intel Core i5-13600",
+        "price": 7500
+      }
+    ],
+    "gpu": [
+      {
+        "name": "Nvidia GeForce RTX 3050",
+        "price": 5990
+      },
+      {
+        "name": "Nvidia GeForce RTX 4060",
+        "price": 6450
+      }
+    ],
+    "ram": [
+      {
+        "name": "2 x 8 GB (16 GB)",
+        "price": 3000
+      },
+      {
+        "name": "4 x 8 GB (32 GB)",
+        "price": 3500
+      }
+    ],
+    "storage": [
+      {
+        "name": "256 GB SSD",
+        "price": 4000
+      },
+      {
+        "name": "512 GB SSD",
+        "price": 4750
+      },
+      {
+        "name": "1 TB SSD",
+        "price": 5250
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "title": "Apex",
+    "cost": 87900,
+    "category": "Gaming",
+    "type": "Laptop",
+    "description": "Best Selling Gaming Laptop",
+    "imgurl1": "/assets/imgs/laptops/gmid3.avif",
+    "cpu": [
+      {
+        "name": "Intel Core i7-13700F",
+        "price": 7950
+      },
+      {
+        "name": "Intel Core i7-13700",
+        "price": 8500
+      }
+    ],
+    "gpu": [
+      {
+        "name": "Nvidia GeForce RTX 4060",
+        "price": 6450
+      },
+      {
+        "name": "Nvidia GeForce RTX 4080",
+        "price": 7650
+      },
+      {
+        "name": "Nvidia GeForce RTX 4090",
+        "price": 8490
+      }
+    ],
+    "ram": [
+      {
+        "name": "4 x 8 GB (32 GB)",
+        "price": 4000
+      },
+      {
+        "name": "8 x 8 GB (64 GB)",
+        "price": 4500
+      }
+    ],
+    "storage": [
+      {
+        "name": "512 GB SSD",
+        "price": 4750
+      },
+      {
+        "name": "1 TB SSD",
+        "price": 5750
+      },
+      {
+        "name": "2 TB SSD",
+        "price": 6250
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "title": "Vortex",
+    "cost": 99500,
+    "category": "Gaming",
+    "type": "Laptop",
+    "description": "No-Compromise Gaming Experience",
+    "imgurl1": "/assets/imgs/laptops/ghigh1.avif",
+    "cpu": [
+      {
+        "name": "Intel Core i9-13900F",
+        "price": 8950
+      },
+      {
+        "name": "Intel Core i9-13900",
+        "price": 9500
+      }
+    ],
+    "gpu": [
+      {
+        "name": "Nvidia GeForce RTX 4060",
+        "price": 6450
+      },
+      {
+        "name": "Nvidia GeForce RTX 4080",
+        "price": 7650
+      },
+      {
+        "name": "Nvidia GeForce RTX 4090",
+        "price": 8490
+      }
+    ],
+    "ram": [
+      {
+        "name": "4 x 8 GB (32 GB)",
+        "price": 4000
+      },
+      {
+        "name": "8 x 8 GB (64 GB)",
+        "price": 4500
+      }
+    ],
+    "storage": [
+      {
+        "name": "512 GB SSD",
+        "price": 4750
+      },
+      {
+        "name": "1 TB SSD",
+        "price": 5750
+      },
+      {
+        "name": "2 TB SSD",
+        "price": 6250
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "title": "ProLink",
+    "cost": 34220,
+    "category": "Business",
+    "type": "Laptop",
+    "description": "Small Business Productivity",
+    "imgurl1": "/assets/imgs/laptops/bsmall1.avif",
+    "cpu": [
+      {
+        "name": "Intel Core i3-13100F",
+        "price": 4950
+      },
+      {
+        "name": "Intel Core i3-13100",
+        "price": 5500
+      }
+    ],
+    "gpu": [
+      {
+        "name": "Nvidia GeForce GTX 1660 Super",
+        "price": 4990
+      },
+      {
+        "name": "Nvidia GeForce RTX 3050",
+        "price": 5450
+      }
+    ],
+    "ram": [
+      {
+        "name": "1 x 8 GB (8 GB)",
+        "price": 2500
+      },
+      {
+        "name": "2 x 8 GB (16 GB)",
+        "price": 3000
+      }
+    ],
+    "storage": [
+      {
+        "name": "128 GB SSD",
+        "price": 3000
+      },
+      {
+        "name": "256 GB SSD",
+        "price": 3750
+      },
+      {
+        "name": "512 GB SSD",
+        "price": 4250
+      }
+    ]
+  },
+  {
+    "id": "17",
+    "title": "NetWave",
+    "cost": 55780,
+    "category": "Business",
+    "type": "Laptop",
+    "description": "Prudent Business Laptop",
+    "imgurl1": "/assets/imgs/laptops/bmid1.avif",
+    "cpu": [
+      {
+        "name": "Intel Core i5-13400F",
+        "price": 5950
+      },
+      {
+        "name": "Intel Core i5-13400",
+        "price": 6500
+      }
+    ],
+    "gpu": [
+      {
+        "name": "Nvidia GeForce RTX 3050",
+        "price": 5990
+      },
+      {
+        "name": "Nvidia GeForce RTX 4060",
+        "price": 6450
+      }
+    ],
+    "ram": [
+      {
+        "name": "2 x 8 GB (16 GB)",
+        "price": 3000
+      },
+      {
+        "name": "4 x 8 GB (32 GB)",
+        "price": 3500
+      }
+    ],
+    "storage": [
+      {
+        "name": "256 GB SSD",
+        "price": 4000
+      },
+      {
+        "name": "512 GB SSD",
+        "price": 4750
+      },
+      {
+        "name": "1 TB SSD",
+        "price": 5250
+      }
+    ]
+  },
+  {
+    "id": "18",
+    "title": "SwiftOwl",
+    "cost": 79350,
+    "category": "Business",
+    "type": "Laptop",
+    "description": "Entreprise Performance",
+    "imgurl1": "/assets/imgs/laptops/bmid2.avif",
+    "cpu": [
+      {
+        "name": "Intel Core i5-13500",
+        "price": 6950
+      },
+      {
+        "name": "Intel Core i5-13600",
+        "price": 7500
+      }
+    ],
+    "gpu": [
+      {
+        "name": "Nvidia GeForce RTX 3050",
+        "price": 5990
+      },
+      {
+        "name": "Nvidia GeForce RTX 4060",
+        "price": 6450
+      }
+    ],
+    "ram": [
+      {
+        "name": "2 x 8 GB (16 GB)",
+        "price": 3000
+      },
+      {
+        "name": "4 x 8 GB (32 GB)",
+        "price": 3500
+      }
+    ],
+    "storage": [
+      {
+        "name": "256 GB SSD",
+        "price": 4000
+      },
+      {
+        "name": "512 GB SSD",
+        "price": 4750
+      },
+      {
+        "name": "1 TB SSD",
+        "price": 5250
+      }
+    ]
+  },
+  {
+    "id": "19",
+    "title": "Scribe",
+    "cost": 92420,
+    "category": "Business",
+    "type": "Laptop",
+    "description": "Best Selling Business Laptop",
+    "imgurl1": "/assets/imgs/laptops/bmid3.avif",
+    "cpu": [
+      {
+        "name": "Intel Core i7-13700F",
+        "price": 7950
+      },
+      {
+        "name": "Intel Core i7-13700",
+        "price": 8500
+      }
+    ],
+    "gpu": [
+      {
+        "name": "Nvidia GeForce RTX 4060",
+        "price": 6450
+      },
+      {
+        "name": "Nvidia GeForce RTX 4080",
+        "price": 7650
+      },
+      {
+        "name": "Nvidia GeForce RTX 4090",
+        "price": 8490
+      }
+    ],
+    "ram": [
+      {
+        "name": "4 x 8 GB (32 GB)",
+        "price": 4000
+      },
+      {
+        "name": "8 x 8 GB (64 GB)",
+        "price": 4500
+      }
+    ],
+    "storage": [
+      {
+        "name": "512 GB SSD",
+        "price": 4750
+      },
+      {
+        "name": "1 TB SSD",
+        "price": 5750
+      },
+      {
+        "name": "2 TB SSD",
+        "price": 6250
+      }
+    ]
+  },
+  {
+    "id": "20",
+    "title": "Rene",
+    "cost": 98900,
+    "category": "Business",
+    "type": "Laptop",
+    "description": "Advanced Applications Business",
+    "imgurl1": "/assets/imgs/laptops/bhigh1.avif",
+    "cpu": [
+      {
+        "name": "Intel Core i9-13900F",
+        "price": 8950
+      },
+      {
+        "name": "Intel Core i9-13900",
+        "price": 9500
+      }
+    ],
+    "gpu": [
+      {
+        "name": "Nvidia GeForce RTX 4060",
+        "price": 6450
+      },
+      {
+        "name": "Nvidia GeForce RTX 4080",
+        "price": 7650
+      },
+      {
+        "name": "Nvidia GeForce RTX 4090",
+        "price": 8490
+      }
+    ],
+    "ram": [
+      {
+        "name": "4 x 8 GB (32 GB)",
+        "price": 4000
+      },
+      {
+        "name": "8 x 8 GB (64 GB)",
+        "price": 4500
+      }
+    ],
+    "storage": [
+      {
+        "name": "512 GB SSD",
+        "price": 4750
+      },
+      {
+        "name": "1 TB SSD",
+        "price": 5750
+      },
+      {
+        "name": "2 TB SSD",
+        "price": 6250
+      }
+    ]
+  },
+  {
+    "id": "21",
+    "title": "IronClaw",
+    "cost": 37960,
+    "category": "Gaming",
+    "type": "PC",
+    "description": "Entry-level Gaming",
+    "imgurl1": "/assets/imgs/pcs/gsmall2.png",
+    "cpu": [
+      {
+        "name": "Intel Core i3-13100F",
+        "price": 4950
+      },
+      {
+        "name": "Intel Core i3-13100",
+        "price": 5500
+      }
+    ],
+    "gpu": [
+      {
+        "name": "Nvidia GeForce GTX 1660 Super",
+        "price": 4990
+      },
+      {
+        "name": "Nvidia GeForce RTX 3050",
+        "price": 5450
+      }
+    ],
+    "ram": [
+      {
+        "name": "1 x 8 GB (8 GB)",
+        "price": 2500
+      },
+      {
+        "name": "2 x 8 GB (16 GB)",
+        "price": 3000
+      }
+    ],
+    "storage": [
+      {
+        "name": "128 GB SSD",
+        "price": 3000
+      },
+      {
+        "name": "256 GB SSD",
+        "price": 3750
+      },
+      {
+        "name": "512 GB SSD",
+        "price": 4250
+      }
+    ]
+  },
+  {
+    "id": "22",
+    "title": "Quantum",
+    "cost": 58320,
+    "category": "Gaming",
+    "type": "PC",
+    "description": "Prudent Gaming PC",
+    "imgurl1": "/assets/imgs/pcs/gmid4.png",
+    "cpu": [
+      {
+        "name": "Intel Core i5-13400F",
+        "price": 5950
+      },
+      {
+        "name": "Intel Core i5-13400",
+        "price": 6500
+      }
+    ],
+    "gpu": [
+      {
+        "name": "Nvidia GeForce RTX 3050",
+        "price": 5990
+      },
+      {
+        "name": "Nvidia GeForce RTX 4060",
+        "price": 6450
+      }
+    ],
+    "ram": [
+      {
+        "name": "2 x 8 GB (16 GB)",
+        "price": 3000
+      },
+      {
+        "name": "4 x 8 GB (32 GB)",
+        "price": 3500
+      }
+    ],
+    "storage": [
+      {
+        "name": "256 GB SSD",
+        "price": 4000
+      },
+      {
+        "name": "512 GB SSD",
+        "price": 4750
+      },
+      {
+        "name": "1 TB SSD",
+        "price": 5250
+      }
+    ]
+  },
+  {
+    "id": "23",
+    "title": "Zenith",
+    "cost": 74670,
+    "category": "Gaming",
+    "type": "PC",
+    "description": "Enthusiast Gaming",
+    "imgurl1": "/assets/imgs/pcs/gmid5.png",
+    "cpu": [
+      {
+        "name": "Intel Core i5-13500",
+        "price": 6950
+      },
+      {
+        "name": "Intel Core i5-13600",
+        "price": 7500
+      }
+    ],
+    "gpu": [
+      {
+        "name": "Nvidia GeForce RTX 3050",
+        "price": 5990
+      },
+      {
+        "name": "Nvidia GeForce RTX 4060",
+        "price": 6450
+      }
+    ],
+    "ram": [
+      {
+        "name": "2 x 8 GB (16 GB)",
+        "price": 3000
+      },
+      {
+        "name": "4 x 8 GB (32 GB)",
+        "price": 3500
+      }
+    ],
+    "storage": [
+      {
+        "name": "256 GB SSD",
+        "price": 4000
+      },
+      {
+        "name": "512 GB SSD",
+        "price": 4750
+      },
+      {
+        "name": "1 TB SSD",
+        "price": 5250
+      }
+    ]
+  },
+  {
+    "id": "24",
+    "title": "Hawk",
+    "cost": 90540,
+    "category": "Gaming",
+    "type": "PC",
+    "description": "Best Selling Gaming PC",
+    "imgurl1": "/assets/imgs/pcs/gmid6.webp",
+    "cpu": [
+      {
+        "name": "Intel Core i7-13700F",
+        "price": 7950
+      },
+      {
+        "name": "Intel Core i7-13700",
+        "price": 8500
+      }
+    ],
+    "gpu": [
+      {
+        "name": "Nvidia GeForce RTX 4060",
+        "price": 6450
+      },
+      {
+        "name": "Nvidia GeForce RTX 4080",
+        "price": 7650
+      },
+      {
+        "name": "Nvidia GeForce RTX 4090",
+        "price": 8490
+      }
+    ],
+    "ram": [
+      {
+        "name": "4 x 8 GB (32 GB)",
+        "price": 4000
+      },
+      {
+        "name": "8 x 8 GB (64 GB)",
+        "price": 4500
+      }
+    ],
+    "storage": [
+      {
+        "name": "512 GB SSD",
+        "price": 4750
+      },
+      {
+        "name": "1 TB SSD",
+        "price": 5750
+      },
+      {
+        "name": "2 TB SSD",
+        "price": 6250
+      }
+    ]
+  },
+  {
+    "id": "25",
+    "title": "Infinitum",
+    "cost": 99800,
+    "category": "Gaming",
+    "type": "PC",
+    "description": "No-Compromise Gaming Experience",
+    "imgurl1": "/assets/imgs/pcs/ghigh2.webp",
+    "cpu": [
+      {
+        "name": "Intel Core i9-13900F",
+        "price": 8950
+      },
+      {
+        "name": "Intel Core i9-13900",
+        "price": 9500
+      }
+    ],
+    "gpu": [
+      {
+        "name": "Nvidia GeForce RTX 4060",
+        "price": 6450
+      },
+      {
+        "name": "Nvidia GeForce RTX 4080",
+        "price": 7650
+      },
+      {
+        "name": "Nvidia GeForce RTX 4090",
+        "price": 8490
+      }
+    ],
+    "ram": [
+      {
+        "name": "4 x 8 GB (32 GB)",
+        "price": 4000
+      },
+      {
+        "name": "8 x 8 GB (64 GB)",
+        "price": 4500
+      }
+    ],
+    "storage": [
+      {
+        "name": "512 GB SSD",
+        "price": 4750
+      },
+      {
+        "name": "1 TB SSD",
+        "price": 5750
+      },
+      {
+        "name": "2 TB SSD",
+        "price": 6250
+      }
+    ]
+  },
+  {
+    "id": "26",
+    "title": "Tranquil",
+    "cost": 36890,
+    "category": "Business",
+    "type": "PC",
+    "description": "Small Business Productivity",
+    "imgurl1": "/assets/imgs/pcs/bsmall2.avif",
+    "cpu": [
+      {
+        "name": "Intel Core i3-13100F",
+        "price": 4950
+      },
+      {
+        "name": "Intel Core i3-13100",
+        "price": 5500
+      }
+    ],
+    "gpu": [
+      {
+        "name": "Nvidia GeForce GTX 1660 Super",
+        "price": 4990
+      },
+      {
+        "name": "Nvidia GeForce RTX 3050",
+        "price": 5450
+      }
+    ],
+    "ram": [
+      {
+        "name": "1 x 8 GB (8 GB)",
+        "price": 2500
+      },
+      {
+        "name": "2 x 8 GB (16 GB)",
+        "price": 3000
+      }
+    ],
+    "storage": [
+      {
+        "name": "128 GB SSD",
+        "price": 3000
+      },
+      {
+        "name": "256 GB SSD",
+        "price": 3750
+      },
+      {
+        "name": "512 GB SSD",
+        "price": 4250
+      }
+    ]
+  },
+  {
+    "id": "27",
+    "title": "Nex",
+    "cost": 59480,
+    "category": "Business",
+    "type": "PC",
+    "description": "Prudent Business PC",
+    "imgurl1": "/assets/imgs/pcs/bmid4.avif",
+    "cpu": [
+      {
+        "name": "Intel Core i5-13400F",
+        "price": 5950
+      },
+      {
+        "name": "Intel Core i5-13400",
+        "price": 6500
+      }
+    ],
+    "gpu": [
+      {
+        "name": "Nvidia GeForce RTX 3050",
+        "price": 5990
+      },
+      {
+        "name": "Nvidia GeForce RTX 4060",
+        "price": 6450
+      }
+    ],
+    "ram": [
+      {
+        "name": "2 x 8 GB (16 GB)",
+        "price": 3000
+      },
+      {
+        "name": "4 x 8 GB (32 GB)",
+        "price": 3500
+      }
+    ],
+    "storage": [
+      {
+        "name": "256 GB SSD",
+        "price": 4000
+      },
+      {
+        "name": "512 GB SSD",
+        "price": 4750
+      },
+      {
+        "name": "1 TB SSD",
+        "price": 5250
+      }
+    ]
+  },
+  {
+    "id": "28",
+    "title": "Stellar",
+    "cost": 77250,
+    "category": "Business",
+    "type": "PC",
+    "description": "Entreprise Performance",
+    "imgurl1": "/assets/imgs/pcs/bmid5.avif",
+    "cpu": [
+      {
+        "name": "Intel Core i5-13500",
+        "price": 6950
+      },
+      {
+        "name": "Intel Core i5-13600",
+        "price": 7500
+      }
+    ],
+    "gpu": [
+      {
+        "name": "Nvidia GeForce RTX 3050",
+        "price": 5990
+      },
+      {
+        "name": "Nvidia GeForce RTX 4060",
+        "price": 6450
+      }
+    ],
+    "ram": [
+      {
+        "name": "2 x 8 GB (16 GB)",
+        "price": 3000
+      },
+      {
+        "name": "4 x 8 GB (32 GB)",
+        "price": 3500
+      }
+    ],
+    "storage": [
+      {
+        "name": "256 GB SSD",
+        "price": 4000
+      },
+      {
+        "name": "512 GB SSD",
+        "price": 4750
+      },
+      {
+        "name": "1 TB SSD",
+        "price": 5250
+      }
+    ]
+  },
+  {
+    "id": "29",
+    "title": "ProQuill",
+    "cost": 88760,
+    "category": "Business",
+    "type": "PC",
+    "description": "Best Selling Business PC",
+    "imgurl1": "/assets/imgs/pcs/bmid6.avif",
+    "cpu": [
+      {
+        "name": "Intel Core i7-13700F",
+        "price": 7950
+      },
+      {
+        "name": "Intel Core i7-13700",
+        "price": 8500
+      }
+    ],
+    "gpu": [
+      {
+        "name": "Nvidia GeForce RTX 4060",
+        "price": 6450
+      },
+      {
+        "name": "Nvidia GeForce RTX 4080",
+        "price": 7650
+      },
+      {
+        "name": "Nvidia GeForce RTX 4090",
+        "price": 8490
+      }
+    ],
+    "ram": [
+      {
+        "name": "4 x 8 GB (32 GB)",
+        "price": 4000
+      },
+      {
+        "name": "8 x 8 GB (64 GB)",
+        "price": 4500
+      }
+    ],
+    "storage": [
+      {
+        "name": "512 GB SSD",
+        "price": 4750
+      },
+      {
+        "name": "1 TB SSD",
+        "price": 5750
+      },
+      {
+        "name": "2 TB SSD",
+        "price": 6250
+      }
+    ]
+  },
+  {
+    "id": "30",
+    "title": "Insight",
+    "cost": 96390,
+    "category": "Business",
+    "type": "PC",
+    "description": "Advanced Applications Business",
+    "imgurl1": "/assets/imgs/pcs/bhigh2.avif",
+    "cpu": [
+      {
+        "name": "Intel Core i9-13900F",
+        "price": 8950
+      },
+      {
+        "name": "Intel Core i9-13900",
+        "price": 9500
+      }
+    ],
+    "gpu": [
+      {
+        "name": "Nvidia GeForce RTX 4060",
+        "price": 6450
+      },
+      {
+        "name": "Nvidia GeForce RTX 4080",
+        "price": 7650
+      },
+      {
+        "name": "Nvidia GeForce RTX 4090",
+        "price": 8490
+      }
+    ],
+    "ram": [
+      {
+        "name": "4 x 8 GB (32 GB)",
+        "price": 4000
+      },
+      {
+        "name": "8 x 8 GB (64 GB)",
+        "price": 4500
+      }
+    ],
+    "storage": [
+      {
+        "name": "512 GB SSD",
+        "price": 4750
+      },
+      {
+        "name": "1 TB SSD",
+        "price": 5750
+      },
+      {
+        "name": "2 TB SSD",
+        "price": 6250
+      }
+    ]
+  },
+  {
+    "id": "31",
+    "title": "FusionX",
+    "cost": 38570,
+    "category": "Gaming",
+    "type": "Laptop",
+    "description": "Entry-level Gaming",
+    "imgurl1": "/assets/imgs/laptops/gsmall2.avif",
+    "cpu": [
+      {
+        "name": "Intel Core i3-13100F",
+        "price": 4950
+      },
+      {
+        "name": "Intel Core i3-13100",
+        "price": 5500
+      }
+    ],
+    "gpu": [
+      {
+        "name": "Nvidia GeForce GTX 1660 Super",
+        "price": 4990
+      },
+      {
+        "name": "Nvidia GeForce RTX 3050",
+        "price": 5450
+      }
+    ],
+    "ram": [
+      {
+        "name": "1 x 8 GB (8 GB)",
+        "price": 2500
+      },
+      {
+        "name": "2 x 8 GB (16 GB)",
+        "price": 3000
+      }
+    ],
+    "storage": [
+      {
+        "name": "128 GB SSD",
+        "price": 3000
+      },
+      {
+        "name": "256 GB SSD",
+        "price": 3750
+      },
+      {
+        "name": "512 GB SSD",
+        "price": 4250
+      }
+    ]
+  },
+  {
+    "id": "32",
+    "title": "ScorpionZ",
+    "cost": 60240,
+    "category": "Gaming",
+    "type": "Laptop",
+    "description": "Prudent Gaming Laptop",
+    "imgurl1": "/assets/imgs/laptops/gmid4.webp",
+    "cpu": [
+      {
+        "name": "Intel Core i5-13400F",
+        "price": 5950
+      },
+      {
+        "name": "Intel Core i5-13400",
+        "price": 6500
+      }
+    ],
+    "gpu": [
+      {
+        "name": "Nvidia GeForce RTX 3050",
+        "price": 5990
+      },
+      {
+        "name": "Nvidia GeForce RTX 4060",
+        "price": 6450
+      }
+    ],
+    "ram": [
+      {
+        "name": "2 x 8 GB (16 GB)",
+        "price": 3000
+      },
+      {
+        "name": "4 x 8 GB (32 GB)",
+        "price": 3500
+      }
+    ],
+    "storage": [
+      {
+        "name": "256 GB SSD",
+        "price": 4000
+      },
+      {
+        "name": "512 GB SSD",
+        "price": 4750
+      },
+      {
+        "name": "1 TB SSD",
+        "price": 5250
+      }
+    ]
+  },
+  {
+    "id": "33",
+    "title": "Spectre",
+    "cost": 73990,
+    "category": "Gaming",
+    "type": "Laptop",
+    "description": "Enthusiast Gaming",
+    "imgurl1": "/assets/imgs/laptops/gmid5.webp",
+    "cpu": [
+      {
+        "name": "Intel Core i5-13500",
+        "price": 6950
+      },
+      {
+        "name": "Intel Core i5-13600",
+        "price": 7500
+      }
+    ],
+    "gpu": [
+      {
+        "name": "Nvidia GeForce RTX 3050",
+        "price": 5990
+      },
+      {
+        "name": "Nvidia GeForce RTX 4060",
+        "price": 6450
+      }
+    ],
+    "ram": [
+      {
+        "name": "2 x 8 GB (16 GB)",
+        "price": 3000
+      },
+      {
+        "name": "4 x 8 GB (32 GB)",
+        "price": 3500
+      }
+    ],
+    "storage": [
+      {
+        "name": "256 GB SSD",
+        "price": 4000
+      },
+      {
+        "name": "512 GB SSD",
+        "price": 4750
+      },
+      {
+        "name": "1 TB SSD",
+        "price": 5250
+      }
+    ]
+  },
+  {
+    "id": "34",
+    "title": "Ghost",
+    "cost": 86780,
+    "category": "Gaming",
+    "type": "Laptop",
+    "description": "Best Selling Gaming Laptop",
+    "imgurl1": "/assets/imgs/laptops/gmid6.webp",
+    "cpu": [
+      {
+        "name": "Intel Core i7-13700F",
+        "price": 7950
+      },
+      {
+        "name": "Intel Core i7-13700",
+        "price": 8500
+      }
+    ],
+    "gpu": [
+      {
+        "name": "Nvidia GeForce RTX 4060",
+        "price": 6450
+      },
+      {
+        "name": "Nvidia GeForce RTX 4080",
+        "price": 7650
+      },
+      {
+        "name": "Nvidia GeForce RTX 4090",
+        "price": 8490
+      }
+    ],
+    "ram": [
+      {
+        "name": "4 x 8 GB (32 GB)",
+        "price": 4000
+      },
+      {
+        "name": "8 x 8 GB (64 GB)",
+        "price": 4500
+      }
+    ],
+    "storage": [
+      {
+        "name": "512 GB SSD",
+        "price": 4750
+      },
+      {
+        "name": "1 TB SSD",
+        "price": 5750
+      },
+      {
+        "name": "2 TB SSD",
+        "price": 6250
+      }
+    ]
+  },
+  {
+    "id": "35",
+    "title": "EdgeX",
+    "cost": 94620,
+    "category": "Gaming",
+    "type": "Laptop",
+    "description": "No-Compromise Gaming Experience",
+    "imgurl1": "/assets/imgs/laptops/ghigh2.avif",
+    "cpu": [
+      {
+        "name": "Intel Core i9-13900F",
+        "price": 8950
+      },
+      {
+        "name": "Intel Core i9-13900",
+        "price": 9500
+      }
+    ],
+    "gpu": [
+      {
+        "name": "Nvidia GeForce RTX 4060",
+        "price": 6450
+      },
+      {
+        "name": "Nvidia GeForce RTX 4080",
+        "price": 7650
+      },
+      {
+        "name": "Nvidia GeForce RTX 4090",
+        "price": 8490
+      }
+    ],
+    "ram": [
+      {
+        "name": "4 x 8 GB (32 GB)",
+        "price": 4000
+      },
+      {
+        "name": "8 x 8 GB (64 GB)",
+        "price": 4500
+      }
+    ],
+    "storage": [
+      {
+        "name": "512 GB SSD",
+        "price": 4750
+      },
+      {
+        "name": "1 TB SSD",
+        "price": 5750
+      },
+      {
+        "name": "2 TB SSD",
+        "price": 6250
+      }
+    ]
+  },
+  {
+    "id": "36",
+    "title": "Stream",
+    "cost": 34480,
+    "category": "Business",
+    "type": "Laptop",
+    "description": "Small Business Productivity",
+    "imgurl1": "/assets/imgs/laptops/bsmall2.avif",
+    "cpu": [
+      {
+        "name": "Intel Core i3-13100F",
+        "price": 4950
+      },
+      {
+        "name": "Intel Core i3-13100",
+        "price": 5500
+      }
+    ],
+    "gpu": [
+      {
+        "name": "Nvidia GeForce GTX 1660 Super",
+        "price": 4990
+      },
+      {
+        "name": "Nvidia GeForce RTX 3050",
+        "price": 5450
+      }
+    ],
+    "ram": [
+      {
+        "name": "1 x 8 GB (8 GB)",
+        "price": 2500
+      },
+      {
+        "name": "2 x 8 GB (16 GB)",
+        "price": 3000
+      }
+    ],
+    "storage": [
+      {
+        "name": "128 GB SSD",
+        "price": 3000
+      },
+      {
+        "name": "256 GB SSD",
+        "price": 3750
+      },
+      {
+        "name": "512 GB SSD",
+        "price": 4250
+      }
+    ]
+  },
+  {
+    "id": "37",
+    "title": "Vantage",
+    "cost": 51750,
+    "category": "Business",
+    "type": "Laptop",
+    "description": "Prudent Business Laptop",
+    "imgurl1": "/assets/imgs/laptops/bmid4.avif",
+    "cpu": [
+      {
+        "name": "Intel Core i5-13400F",
+        "price": 5950
+      },
+      {
+        "name": "Intel Core i5-13400",
+        "price": 6500
+      }
+    ],
+    "gpu": [
+      {
+        "name": "Nvidia GeForce RTX 3050",
+        "price": 5990
+      },
+      {
+        "name": "Nvidia GeForce RTX 4060",
+        "price": 6450
+      }
+    ],
+    "ram": [
+      {
+        "name": "2 x 8 GB (16 GB)",
+        "price": 3000
+      },
+      {
+        "name": "4 x 8 GB (32 GB)",
+        "price": 3500
+      }
+    ],
+    "storage": [
+      {
+        "name": "256 GB SSD",
+        "price": 4000
+      },
+      {
+        "name": "512 GB SSD",
+        "price": 4750
+      },
+      {
+        "name": "1 TB SSD",
+        "price": 5250
+      }
+    ]
+  },
+  {
+    "id": "38",
+    "title": "Vision",
+    "cost": 76890,
+    "category": "Business",
+    "type": "Laptop",
+    "description": "Entreprise Performance",
+    "imgurl1": "/assets/imgs/laptops/bmid5.avif",
+    "cpu": [
+      {
+        "name": "Intel Core i5-13500",
+        "price": 6950
+      },
+      {
+        "name": "Intel Core i5-13600",
+        "price": 7500
+      }
+    ],
+    "gpu": [
+      {
+        "name": "Nvidia GeForce RTX 3050",
+        "price": 5990
+      },
+      {
+        "name": "Nvidia GeForce RTX 4060",
+        "price": 6450
+      }
+    ],
+    "ram": [
+      {
+        "name": "2 x 8 GB (16 GB)",
+        "price": 3000
+      },
+      {
+        "name": "4 x 8 GB (32 GB)",
+        "price": 3500
+      }
+    ],
+    "storage": [
+      {
+        "name": "256 GB SSD",
+        "price": 4000
+      },
+      {
+        "name": "512 GB SSD",
+        "price": 4750
+      },
+      {
+        "name": "1 TB SSD",
+        "price": 5250
+      }
+    ]
+  },
+  {
+    "id": "39",
+    "title": "Pinnacle",
+    "cost": 89320,
+    "category": "Business",
+    "type": "Laptop",
+    "description": "Best Selling Business Laptop",
+    "imgurl1": "/assets/imgs/laptops/gmid6.webp",
+    "cpu": [
+      {
+        "name": "Intel Core i7-13700F",
+        "price": 7950
+      },
+      {
+        "name": "Intel Core i7-13700",
+        "price": 8500
+      }
+    ],
+    "gpu": [
+      {
+        "name": "Nvidia GeForce RTX 4060",
+        "price": 6450
+      },
+      {
+        "name": "Nvidia GeForce RTX 4080",
+        "price": 7650
+      },
+      {
+        "name": "Nvidia GeForce RTX 4090",
+        "price": 8490
+      }
+    ],
+    "ram": [
+      {
+        "name": "4 x 8 GB (32 GB)",
+        "price": 4000
+      },
+      {
+        "name": "8 x 8 GB (64 GB)",
+        "price": 4500
+      }
+    ],
+    "storage": [
+      {
+        "name": "512 GB SSD",
+        "price": 4750
+      },
+      {
+        "name": "1 TB SSD",
+        "price": 5750
+      },
+      {
+        "name": "2 TB SSD",
+        "price": 6250
+      }
+    ]
+  },
+  {
+    "id": "40",
+    "title": "Odyssey",
+    "cost": 97890,
+    "category": "Business",
+    "type": "Laptop",
+    "description": "Advanced Applications Business",
+    "imgurl1": "/assets/imgs/laptops/bhigh2.avif",
+    "cpu": [
+      {
+        "name": "Intel Core i9-13900F",
+        "price": 8950
+      },
+      {
+        "name": "Intel Core i9-13900",
+        "price": 9500
+      }
+    ],
+    "gpu": [
+      {
+        "name": "Nvidia GeForce RTX 4060",
+        "price": 6450
+      },
+      {
+        "name": "Nvidia GeForce RTX 4080",
+        "price": 7650
+      },
+      {
+        "name": "Nvidia GeForce RTX 4090",
+        "price": 8490
+      }
+    ],
+    "ram": [
+      {
+        "name": "4 x 8 GB (32 GB)",
+        "price": 4000
+      },
+      {
+        "name": "8 x 8 GB (64 GB)",
+        "price": 4500
+      }
+    ],
+    "storage": [
+      {
+        "name": "512 GB SSD",
+        "price": 4750
+      },
+      {
+        "name": "1 TB SSD",
+        "price": 5750
+      },
+      {
+        "name": "2 TB SSD",
+        "price": 6250
+      }
+    ]
+  },
+  {
+    "id": "41",
+    "title": "OfficeScribe",
+    "cost": 990,
+    "category": "Business",
+    "type": "Accessories",
+    "description": "Precision Mouse",
+    "imgurl1": "/assets/imgs/accessories/bm1.webp",
+    "cpu": [{}],"gpu":[{}],"ram":[{}],"storage":[{}]
+  },
+  {
+    "id": "42",
+    "title": "ProClick",
+    "cost": 2380,
+    "category": "Business",
+    "type": "Accessories",
+    "description": "Premium Mouse",
+    "imgurl1": "/assets/imgs/accessories/bm2.webp",
+    "cpu": [{}],"gpu":[{}],"ram":[{}],"storage":[{}]
+  },
+  {
+    "id": "43",
+    "title": "ExecuTouch",
+    "cost": 4090,
+    "category": "Business",
+    "type": "Accessories",
+    "description": "Executive Mouse",
+    "imgurl1": "/assets/imgs/accessories/bm3.webp",
+    "cpu": [{}],"gpu":[{}],"ram":[{}],"storage":[{}]
+  },
+  {
+    "id": "44",
+    "title": "GamePoint",
+    "cost": 1090,
+    "category": "Gaming",
+    "type": "Accessories",
+    "description": "Dominate with Precision",
+    "imgurl1": "/assets/imgs/accessories/gm1.avif",
+    "cpu": [{}],"gpu":[{}],"ram":[{}],"storage":[{}]
+  },
+  {
+    "id": "45",
+    "title": "RapidFire",
+    "cost": 2560,
+    "category": "Gaming",
+    "type": "Accessories",
+    "description": "Unleash your Potential",
+    "imgurl1": "/assets/imgs/accessories/gm2.avif",
+    "cpu": [{}],"gpu":[{}],"ram":[{}],"storage":[{}]
+  },
+  {
+    "id": "46",
+    "title": "Instinct",
+    "cost": 5070,
+    "category": "Gaming",
+    "type": "Accessories",
+    "description": "Uncompromised Precision",
+    "imgurl1": "/assets/imgs/accessories/gm3.avif",
+    "cpu": [{}],"gpu":[{}],"ram":[{}],"storage":[{}]
+  },
+  {
+    "id": "47",
+    "title": "BlazeStrike",
+    "cost": 1990,
+    "category": "Gaming",
+    "type": "Accessories",
+    "description": "Conquer the Worlds",
+    "imgurl1": "/assets/imgs/accessories/gk1.png",
+    "cpu": [{}],"gpu":[{}],"ram":[{}],"storage":[{}]
+  },
+  {
+    "id": "48",
+    "title": "Navigator",
+    "cost": 2800,
+    "category": "Gaming",
+    "type": "Accessories",
+    "description": "Navigate through the Cosmos",
+    "imgurl1": "/assets/imgs/accessories/gk2.avif",
+    "cpu": [{}],"gpu":[{}],"ram":[{}],"storage":[{}]
+  },
+  {
+    "id": "49",
+    "title": "HitMan",
+    "cost": 3970,
+    "category": "Gaming",
+    "type": "Accessories",
+    "description": "Unleash your Move",
+    "imgurl1": "/assets/imgs/accessories/gk3.avif",
+    "cpu": [{}],"gpu":[{}],"ram":[{}],"storage":[{}]
+  },
+  {
+    "id": "50",
+    "title": "OfficeKey",
+    "cost": 1099,
+    "category": "Business",
+    "type": "Accessories",
+    "description": "Efficiency at your Fingertips",
+    "imgurl1": "/assets/imgs/accessories/bk1.avif",
+    "cpu": [{}],"gpu":[{}],"ram":[{}],"storage":[{}]
+  },
+  {
+    "id": "51",
+    "title": "ProType",
+    "cost": 2340,
+    "category": "Business",
+    "type": "Accessories",
+    "description": "Unmatched Precision",
+    "imgurl1": "/assets/imgs/accessories/bk2.avif",
+    "cpu": [{}],"gpu":[{}],"ram":[{}],"storage":[{}]
+  },
+  {
+    "id": "52",
+    "title": "ProfoundKey",
+    "cost": 3590,
+    "category": "Business",
+    "type": "Accessories",
+    "description": "Keys to Success",
+    "imgurl1": "/assets/imgs/accessories/bk3.webp",
+    "cpu": [{}],"gpu":[{}],"ram":[{}],"storage":[{}]
+  },
+  {
+    "id": "53",
+    "title": "OfficeMate",
+    "cost": 1400,
+    "category": "Business",
+    "type": "Accessories",
+    "description": "Connect to Success",
+    "imgurl1": "/assets/imgs/accessories/bh1.webp",
+    "cpu": [{}],"gpu":[{}],"ram":[{}],"storage":[{}]
+  },
+  {
+    "id": "54",
+    "title": "ProTalk",
+    "cost": 2750,
+    "category": "Business",
+    "type": "Accessories",
+    "description": "Sound of Quality",
+    "imgurl1": "/assets/imgs/accessories/bh2.webp",
+    "cpu": [{}],"gpu":[{}],"ram":[{}],"storage":[{}]
+  },
+  {
+    "id": "55",
+    "title": "ExecuSound",
+    "cost": 3990,
+    "category": "Business",
+    "type": "Accessories",
+    "description": "Your Voice, Your Command",
+    "imgurl1": "/assets/imgs/accessories/bh3.webp",
+    "cpu": [{}],"gpu":[{}],"ram":[{}],"storage":[{}]
+  },
+  {
+    "id": "56",
+    "title": "SonicScape",
+    "cost": 2070,
+    "category": "Gaming",
+    "type": "Accessories",
+    "description": "Celestial Symphony",
+    "imgurl1": "/assets/imgs/accessories/gh1.webp",
+    "cpu": [{}],"gpu":[{}],"ram":[{}],"storage":[{}]
+  },
+  {
+    "id": "57",
+    "title": "NebulaWings",
+    "cost": 3010,
+    "category": "Gaming",
+    "type": "Accessories",
+    "description": "Dive into Immersive Play",
+    "imgurl1": "/assets/imgs/accessories/gh2.png",
+    "cpu": [{}],"gpu":[{}],"ram":[{}],"storage":[{}]
+  },
+  {
+    "id": "58",
+    "title": "Obsidian",
+    "cost": 4590,
+    "category": "Gaming",
+    "type": "Accessories",
+    "description": "Echoes of Brilliance",
+    "imgurl1": "/assets/imgs/accessories/gh3.webp",
+    "cpu": [{}],"gpu":[{}],"ram":[{}],"storage":[{}]
+  },
+  {
+    "id": "59",
+    "title": "NorthernLights",
+    "cost": 1030,
+    "category": "Gaming",
+    "type": "Accessories",
+    "description": "Glide to Victory",
+    "imgurl1": "/assets/imgs/accessories/gmp1.webp",
+    "cpu": [{}],"gpu":[{}],"ram":[{}],"storage":[{}]
+  },
+  {
+    "id": "60",
+    "title": "Dash",
+    "cost": 2200,
+    "category": "Gaming",
+    "type": "Accessories",
+    "description": "Game with Precision Control",
+    "imgurl1": "/assets/imgs/accessories/gmp2.webp",
+    "cpu": [{}],"gpu":[{}],"ram":[{}],"storage":[{}]
+  },
+  {
+    "id": "61",
+    "title": "CosmicGlide",
+    "cost": 2990,
+    "category": "Gaming",
+    "type": "Accessories",
+    "description": "Navigate the Stars",
+    "imgurl1": "/assets/imgs/accessories/gmp3.webp",
+    "cpu": [{}],"gpu":[{}],"ram":[{}],"storage":[{}]
+  },
+  {
+    "id": "62",
+    "title": "VentureWave",
+    "cost": 990,
+    "category": "Business",
+    "type": "Accessories",
+    "description": "Pulse of Productivity",
+    "imgurl1": "/assets/imgs/accessories/bmp1.webp",
+    "cpu": [{}],"gpu":[{}],"ram":[{}],"storage":[{}]
+  },
+  {
+    "id": "63",
+    "title": "WorkMaster",
+    "cost": 1290,
+    "category": "Business",
+    "type": "Accessories",
+    "description": "Elegance meets Efficiency",
+    "imgurl1": "/assets/imgs/accessories/bmp2.webp",
+    "cpu": [{}],"gpu":[{}],"ram":[{}],"storage":[{}]
+  },
+  {
+    "id": "64",
+    "title": "ExecuSculpt",
+    "cost": 2370,
+    "category": "Business",
+    "type": "Accessories",
+    "description": "Shape your Path",
+    "imgurl1": "/assets/imgs/accessories/bmp3.webp",
+    "cpu": [{}],"gpu":[{}],"ram":[{}],"storage":[{}]
+  }
+]
