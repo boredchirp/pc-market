@@ -4,6 +4,3 @@ export { default as Product } from './ProductPage';
 export { default as AboutPage } from './AboutPage';
 export { default as Cart } from './Cart';
 export { default as Config } from './Config.jsx';
-export { default as Login } from './Login';
-export { default as Register } from './Register';
-export { default as Checkout } from './Checkout'

@@ -4,7 +4,6 @@ import { addCart } from '../redux/action'; // Import the addCart action
 import { Link } from 'react-router-dom'; // Import Link component from react-router-dom
 const productData = require('../products.json'); // Load product data from an external JSON file
 
-// Create a functional component called "Products"
 const Products = () => {
   // Define state variables using the useState hook
   const [data, setData] = useState([]); // Store the product data
